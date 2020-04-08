@@ -1,4 +1,4 @@
-# Node.js-vning1
+# Node.js-Exercise1
 
 Write a program that saves the quote "Why, sometimes I've believed as many as six impossible things before breakfast." in a text file called alicequotes.txt. Use writeFile.
 
